@@ -1,2 +1,2 @@
-# REAPER-Scripts
+# REAPER Scripts (Lua)
 Minor features
